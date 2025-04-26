@@ -17,6 +17,10 @@ Guided QA engineers in crafting regression suites that validated critical new‑
 
 Collaborated with third‑party XR developers to guarantee > 99.9 % bug‑to‑bug compatibility between OS versions, preserving ecosystem stability during platform upgrades.
 
+### System API team
+
+Architected initial MVP for privacy aware merge requests. Showcasing a basic privacy questionaire to guardrail against code that may log and capture PII to meet regulatory requirements.
+
 ### System Insights & Reliability
 
 Architected a stack‑wide telemetry bus adopted by all internal teams, reducing memory footprint 80 % while exposing real‑time performance insights with unstructured schema API.
