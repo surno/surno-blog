@@ -2,7 +2,7 @@
 company: "Meta"
 role: "Software Engineer"
 dateStart: "08/01/2019"
-dateEnd: "01/6/2015"
+dateEnd: "01/6/2025"
 ---
 
 ### Oculus OS Runtime
